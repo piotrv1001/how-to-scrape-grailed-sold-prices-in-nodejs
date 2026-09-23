@@ -70,6 +70,8 @@ items.forEach((item) => {
 
 [`sample-output.json`](./sample-output.json) contains two abbreviated rows from our five-listing run. Compare `soldPrice`, `soldAt`, `categoryPath`, `size`, and `condition` before using sold listings as comparable sales. `price` and `priceDrops` are listing-price fields, not additional completed sales.
 
+![Five sold Grailed listings with their sold prices](./grailed_sold_prices_results.png)
+
 ## Use cases
 
 - Build sold-price comparisons for a specific designer and item type
